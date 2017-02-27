@@ -14,8 +14,7 @@ tensorflow-gpu for python 3 on ubuntu 16.04, includes cuda8, cudnn, tensorflow-g
 
 > sudo apt-get install -y cuda
 
-####CUDNN (you have to get cudnn from nvidia website)
-####copy the downloaded file to your cloud instances/machine, then
+####CUDNN (you have to get cudnn5.1 from nvidia website https://developer.nvidia.com/cudnn), copy the downloaded file to your cloud instances/local machine, then
 > sudo tar -xvf (cudnn_archive).tgz -C /usr/local
 
 ####NVIDIA CUDA Profile Tools Interface
