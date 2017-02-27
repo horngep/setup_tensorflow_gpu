@@ -1,6 +1,6 @@
 # setup_tensorflow_gpu
 This page is a list of commands for setting up tensorflow-gpu environment on a ubuntu machine. This includes the installation of CUDA 8 CuDNN 5.1 and Tensorflow-gpu (python3)
-(Note: The tested Operating system is Ubuntu 16.04 local machine and aws p2.xlarge instances)
+(Note: This is tested on Ubuntu 16.04 local machine and aws p2.xlarge instances)
 
 
 
